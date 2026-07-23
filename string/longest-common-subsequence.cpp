@@ -1,7 +1,9 @@
 class Solution {
 public:
 
-    int func(string text1, string text2, vector<vector<int>>& dp, int i, int j){
+    int func(string &text1, string &text2, vector<vector<int>>& dp, int i, int j){
+
+       // & = Same object use karo, copy mat banao. text1 and text2 ki baar baar copy nhi banaengr
 
         if(i == text1.size() || j == text2.size()){
             return 0;
