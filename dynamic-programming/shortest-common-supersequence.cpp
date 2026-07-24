@@ -24,10 +24,10 @@ public:
 
 
     if(notmatch1.size() >= notmatch2.size()){
-        return notmatch2;
+        return dp[i][j] =  notmatch2;
     }
     
-    return notmatch1;
+    return dp[i][j] = notmatch1;
 
     }
     string shortestCommonSupersequence(string str1, string str2) {
