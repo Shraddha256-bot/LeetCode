@@ -3,8 +3,12 @@ public:
 
     string func(int i, int j, string& s1, string& s2, vector<vector<string>>& dp){
 
-    if(i == s1.size() || j == s2.size()){
-        return "";
+    if(i == s1.size()){
+        return s2.substr(j);
+    }
+
+    if(j == s2.size()){
+        return s1.substr(i);
     }
 
     if(dp[i][j] != "#"){
@@ -12,7 +16,7 @@ public:
     }
 
     if(s1[i] == s2[j]){
-        string match = s1[i]+ func(i+1, j+1, s1, s2, dp);
+        return dp[i][j] = s1[i]+ func(i+1, j+1, s1, s2, dp);
     }
 
     string notmatch1 = s1[i] + func(i+1, j, s1, s2, dp);
