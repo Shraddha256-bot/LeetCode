@@ -19,8 +19,8 @@ public:
         return dp[i][j] = s1[i]+ func(i+1, j+1, s1, s2, dp);
     }
 
-    string notmatch1 = s1[i] + func(i+1, j, s1, s2, dp);
-    string notmatch2 = s2[j] + func(i, j+1, s1, s2, dp);
+    string notmatch1 = string(1, s1[i]) + func(i+1, j, s1, s2, dp);
+    string notmatch2 = string(1, s2[j]) + func(i, j+1, s1, s2, dp);
 
 
     if(notmatch1.size() >= notmatch2.size()){
