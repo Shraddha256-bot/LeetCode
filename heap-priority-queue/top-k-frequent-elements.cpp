@@ -4,13 +4,13 @@ public:
         unordered_map<int , int> mp;
 
         for(int i=0; i < nums.size(); i++){
-            mp[i]++;
+            mp[nums[i]]++;
         }
 
-        vector<int> container(k);
+        vector<int> container;
 
-        for(int i=0; i < k; i++){
-            container.push_back(mp->first);
+        for(auto &it : mp){
+            container.push_back(it.first);
 
         }
 
