@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0312-burst-balloons](https://github.com/Shraddha256-bot/LeetCode/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0875-koko-eating-bananas](https://github.com/Shraddha256-bot/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shraddha256-bot/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shraddha256-bot/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/Shraddha256-bot/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -39,4 +42,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Shraddha256-bot/LeetCode/tree/master/0981-time-based-key-value-store) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
