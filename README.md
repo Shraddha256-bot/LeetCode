@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Shraddha256-bot/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0312-burst-balloons](https://github.com/Shraddha256-bot/LeetCode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
