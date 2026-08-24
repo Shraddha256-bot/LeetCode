@@ -8,6 +8,9 @@ public:
             return false;
         }
 
+        sort(ransomNote.begin(), ransomNote.end());
+        sort(magazine.begin(), magazine.end());
+
         if(n == m){
             for(int i=0; i < n; i++){
                 if(ransomNote[i] != magazine[i]){
