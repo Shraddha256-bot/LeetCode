@@ -8,6 +8,14 @@ public:
             return false;
         }
 
+        if(n == m){
+            for(int i=0; i < n; i++){
+                if(ransomNote[i] != magazine[i]){
+                    return false;
+                }
+            }
+        }
+
         return true;
     }
 };
