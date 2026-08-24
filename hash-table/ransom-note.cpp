@@ -11,12 +11,18 @@ public:
         sort(ransomNote.begin(), ransomNote.end());
         sort(magazine.begin(), magazine.end());
 
-        if(n == m){
-            for(int i=0; i < n; i++){
-                if(ransomNote[i] != magazine[i]){
-                    return false;
-                }
+        int j =0;
+
+        for(int i=0; i < n; i++){
+            while(j < m && ransomNote[i] != magazine[j]){
+                j++;
             }
+            
+            if(j == m){
+                return false;
+            }
+
+            j++;
         }
 
         return true;
