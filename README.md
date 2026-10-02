@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shraddha256-bot/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Shraddha256-bot/LeetCode/tree/master/0912-sort-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shraddha256-bot/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shraddha256-bot/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shraddha256-bot/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/Shraddha256-bot/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shraddha256-bot/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
