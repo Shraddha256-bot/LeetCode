@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/Shraddha256-bot/LeetCode/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Shraddha256-bot/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Shraddha256-bot/LeetCode/tree/master/0912-sort-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shraddha256-bot/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
