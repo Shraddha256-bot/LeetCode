@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shraddha256-bot/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Shraddha256-bot/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shraddha256-bot/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Shraddha256-bot/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Shraddha256-bot/LeetCode/tree/master/0912-sort-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shraddha256-bot/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shraddha256-bot/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shraddha256-bot/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shraddha256-bot/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shraddha256-bot/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shraddha256-bot/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shraddha256-bot/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/Shraddha256-bot/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shraddha256-bot/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
