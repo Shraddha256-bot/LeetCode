@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha256-bot/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shraddha256-bot/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shraddha256-bot/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/Shraddha256-bot/LeetCode/tree/master/0312-burst-balloons) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -137,9 +139,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
