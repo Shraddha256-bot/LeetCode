@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shraddha256-bot/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shraddha256-bot/LeetCode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Shraddha256-bot/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha256-bot/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shraddha256-bot/LeetCode/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shraddha256-bot/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Shraddha256-bot/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha256-bot/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/Shraddha256-bot/LeetCode/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/Shraddha256-bot/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Shraddha256-bot/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shraddha256-bot/LeetCode/tree/master/0733-flood-fill) |
