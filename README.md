@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha256-bot/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shraddha256-bot/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shraddha256-bot/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shraddha256-bot/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/Shraddha256-bot/LeetCode/tree/master/0312-burst-balloons) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shraddha256-bot/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Shraddha256-bot/LeetCode/tree/master/0507-perfect-number) |
 ## Bit Manipulation
@@ -206,4 +208,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shraddha256-bot/LeetCode/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shraddha256-bot/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
